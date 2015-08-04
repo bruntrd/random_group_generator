@@ -1,0 +1,22 @@
+
+.highlighted {
+    background-color: #888888;
+}
+
+.all {
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.names {
+    display: none;
+}
+
+.most {
+    margin: 10px 10px 10px 10px;
+    height: 40px;
+    width: 40px;
+}
+.randBtn {
+    margin:20px 20px 20px 20px;
+}
